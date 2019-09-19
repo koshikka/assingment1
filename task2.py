@@ -1,4 +1,5 @@
-the_humidity =18
+command = input("please select a humidity")
+
 
 if the_humidity < 30:
     print("dry")
